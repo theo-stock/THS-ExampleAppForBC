@@ -1,23 +1,29 @@
 ﻿{
     "id":  "95cca454-a2f5-48bf-b26c-9b2122d4f20d",
-    "name":  "App1",
-    "publisher":  "Theo.Stock",
+    "name":  "GoChill Packhouse Management for BC",
+    "publisher":  "GoSolutions",
     "version":  "1.0.0.0",
-    "brief":  "",
-    "description":  "",
+    "brief":  "Provides Packhouse Management functionality",
+    "description":  "Adds Stock Master Packhouse File Interchange, Over- and Under Delivery management, Quality and Certification Meta Data recording",
     "privacyStatement":  "",
     "EULA":  "",
     "help":  "",
     "url":  "",
-    "logo":  "",
+    "logo": "./img/GoSolutions BC App Logo.png",
     "dependencies":  [
-
+        {
+            "id":  "437dbf0e-84ff-417a-965d-ed2bb9650972",
+            "name":  "Base Application",
+            "publisher":  "Microsoft",
+            "version":  "20.0.0.0"
+        }
+    
                      ],
     "screenshots":  [
 
                     ],
     "platform":  "1.0.0.0",
-    "application":  "19.0.0.0",
+    "application":  "18.0.0.0",
     "idRanges":  [
                      {
                          "from":  71201575,
